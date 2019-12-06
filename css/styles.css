@@ -1,0 +1,148 @@
+div {
+  background-color: white;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1em;
+  color: #40514E;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Poppins', sans-serif;
+  font-size: 3rem;
+  line-height: 2;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Poppins', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1rem;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 8px;
+  width: 5%;
+  color: #11999E;
+  margin-top: 75px;
+  margin-bottom: 75px;
+}
+
+p{
+  line-height: 2;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+a:hover{
+  color:#396362;
+  text-decoration:line;
+}
+
+.profile {
+  margin: auto;
+  display: inline-block;
+  width: 25%;
+}
+
+.profile-img{
+  border-radius: 50%;
+  width: 150px;
+}
+
+.top-container{
+  background-color: #faeee7;
+  position: relative;
+  padding-top: 50px;
+}
+
+.middle-container {
+  background-color: white;
+  margin: 100px 0;
+}
+
+.bottom-container {
+  position: relative;
+  background-color: #11999E;
+  padding: 50px 0 50px 0;
+}
+
+.copyright{
+  color: white;
+  padding-top: 20px;
+  font-size: 8pt;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.research-img {
+  width: 20%;
+  float: left;
+  margin-right: 5%;
+}
+
+.design-img {
+  width: 20%;
+  float: right;
+  margin-left: 5%;
+}
+
+.skills{
+  margin: 25px auto 25px auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 75px auto 100px auto;
+  text-align: left;
+}
+
+.contact-me{
+  width: 25%;
+  margin: 0 auto 100px auto;
+}
+
+.btn {
+	background-color:#4b8e8d;
+	border-radius:28px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+  margin-top: 50px;
+}
+.btn:hover {
+	background-color:#396362;
+}
+.btnn:active {
+	position:relative;
+	top:1px;
+}
